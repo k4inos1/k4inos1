@@ -65,9 +65,9 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=k4inos1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=k4inos1&show_icons=true&theme=tokyonight&hide_border=true" alt="stats graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4inos1&layout=compact&theme=tokyonight&hide_border=true" alt="languages graph" height="150" />
+  <img src="https://streak-stats.demolab.com?user=k4inos1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="streak graph" height="150" />
 </div>
 
 ---

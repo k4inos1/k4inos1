@@ -67,7 +67,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=k4inos1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=k4inos1&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&v=4" height="150" alt="streak graph"  />
 </div>
 
 ---

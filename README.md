@@ -2,9 +2,8 @@
 
 # Hi, I'm Ricardo (k4inos1) 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa;Siempre+en+constante+aprendizaje)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+learning;Team+player)](https://git.io/typing-svg)
 
-<h3 align="center">Full Stack Developer from Chile 🇨🇱</h3>
 
 </div>
 

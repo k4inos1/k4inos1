@@ -38,7 +38,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Languages and tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
@@ -62,7 +62,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 
 ---
 
-### 📈 Estadísticas en GitHub
+### 📈 My GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/stats-output/stats.svg" height="150" alt="stats graph"  />
@@ -72,21 +72,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 
 ---
 
-### 📝 Mis Artículos en Medium
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/0">
-    <img style="width: 32%" src="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/1">
-    <img style="width: 32%" src="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/2">
-    <img style="width: 32%" src="https://github-readme-medium-recent-article.vercel.app/medium/@k4inos1/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=k4inos1.k4inos1&" alt="visitors" />

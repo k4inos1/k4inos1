@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ricardo (k4inos1) 👋
+# 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+learning;Team+player)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 💡 Bio
+###  Me
 
 <img align="right" height="150" src="https://i.ytimg.com/vi/o4mfJgBwsIc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgRyhCMA8=&rs=AOn4CLBjfwN-shRmVS8RxjKWfLiul7FwPg"  />
 
@@ -38,7 +38,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 
 ---
 
-### 🛠️ Languages and tools
+###  Languages and tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
@@ -62,7 +62,7 @@ I consider myself an honest person who highly values teamwork and perseverance. 
 
 ---
 
-### 📈 My GitHub Stats
+### Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/k4inos1/k4inos1/stats-output/stats.svg" height="150" alt="stats graph"  />
